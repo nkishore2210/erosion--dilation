@@ -20,10 +20,9 @@ Specify the size of the structuring element (e.g., 5x5 pixels) and create a rect
 ### Step5:
 Apply the erosion operation on the image using cv2.erode() with the defined structuring element. Erosion will reduce the size of the white regions (text) in the image.
 
-```
-DEVELOPED BY : KISHORE N
-REGISTER NO: 212222240049
-```
+### DEVELOPED BY : KISHORE N
+### REGISTER NO: 212222240049
+
 ## Program:
 ### Import the necessary packages
 ``` Python
